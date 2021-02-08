@@ -1,0 +1,40 @@
+{
+    "window.zoomLevel": 0,
+    "workbench.activityBar.visible": true,
+    "workbench.sideBar.location": "left",
+    "editor.minimap.enabled": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "breadcrumbs.enabled": false,
+    "files.associations": {
+        "*.conf": "ini"
+    },
+    "todo-tree.tree.showScanModeButton": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "dart.lineLength": 240,
+    "dart.previewFlutterUiGuides": true,
+    "dart.previewFlutterUiGuidesCustomTracking": true,
+    "editor.formatOnType": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "workbench.colorTheme": "Dracula",
+    "editor.suggestSelection": "first",
+    "editor.renderLineHighlight": "gutter",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "php.executablePath": "/Users/rafael/Projetos/queue/php.sh",
+    "intelephense.files.associations": [
+        "*.php",
+        "*.phtml"
+    ],
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 14,
+    "terminal.integrated.fontFamily": "Fira Code",
+    "terminal.integrated.fontSize": 14
+}
+
